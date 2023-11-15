@@ -2,15 +2,11 @@
 
 ## Power BI - Dashboard Showcase:
 
-![Demo Dashboard](URL_of_GIF)
-
-[View my project video](https://youtu.be/YouTubeVideoID)
+Dashboard video : https://youtu.be/qIz3QeKGZSE
 
 ## Power BI - Data Modeling and DAX Showcase:
 
-![Demo Data Modelling and DAX](URL_of_GIF)
-
-[View my project video](https://youtu.be/YouTubeVideoID)
+Data Modeling and DAX video : https://youtu.be/jse2uMJ4Oqw
 
 ## Overview
 This project showcases a comprehensive Power BI dashboard designed to analyze and visualize data from the AdventureWorks database. The primary focus is on connecting and shaping data, data cleaning, relational data modeling, creating calculated fields with DAX, and visualizing data with detailed reports.
